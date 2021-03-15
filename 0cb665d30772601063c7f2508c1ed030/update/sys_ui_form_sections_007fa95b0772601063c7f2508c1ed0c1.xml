@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="007fa95b0772601063c7f2508c1ed0c1" sys_domain="global" table="x_594714_srec7_faculty_information" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc7fa95b0772601063c7f2508c1ed0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594714_srec7_faculty_information" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">007fa95b0772601063c7f2508c1ed0c1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">3aeb61570772601063c7f2508c1ed05e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c87fa95b0772601063c7f2508c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594714_srec7_faculty_information" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">007fa95b0772601063c7f2508c1ed0c1</sys_ui_form>
+            <sys_ui_section caption="Address" display_value="Address" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">cc7fa95b0772601063c7f2508c1ed0bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:42:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51cfad5b0772601063c7f2508c1ed069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_594714_srec7_faculty_information" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">007fa95b0772601063c7f2508c1ed0c1</sys_ui_form>
+            <sys_ui_section caption="HOD" display_value="HOD" name="x_594714_srec7_faculty_information" sys_domain="global" view="Default view">91cfad5b0772601063c7f2508c1ed066</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:42:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_594714_srec7_faculty_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-15 06:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007fa95b0772601063c7f2508c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_594714_srec7_faculty_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Srec7" source="x_594714_srec7">0cb665d30772601063c7f2508c1ed030</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Srec7">0cb665d30772601063c7f2508c1ed030</sys_scope>
+            <sys_update_name>sys_ui_form_sections_007fa95b0772601063c7f2508c1ed0c1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-15 06:40:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

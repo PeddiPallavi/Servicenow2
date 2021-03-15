@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Faculty Information" max_length="40" name="x_594714_srec7_faculty_information" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="blocknumber" max_length="40" name="block_number" type="string"/>
+        <element label="contact no" max_length="40" name="contact_no" type="phone_number_e164"/>
+        <element choice="1" label="department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cse" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="ece" sequence="1" value="ece"/>
+                <element inactive_on_update="false" label="CIVIL" sequence="2" value="civil"/>
+            </choice>
+        </element>
+        <element label="DOB" max_length="40" name="dob" type="glide_date"/>
+        <element label="Hod name" max_length="32" name="hod_name" reference="sys_user" type="reference"/>
+        <element label="name" max_length="20" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="hod_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
